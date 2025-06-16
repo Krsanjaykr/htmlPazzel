@@ -1,3 +1,0 @@
-{
-    "presets": ["@babel/preset-evn","@babel/praset-react"]
-}
